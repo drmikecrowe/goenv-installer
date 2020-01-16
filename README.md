@@ -2,7 +2,7 @@
 
 ## IMPORTANT NOTE:
 
-This is a very quick port of [rbenvinstaller](https://github.com/rbenv/rbenv-installer) for [goenv](https://github.com/syndbg/goenv).
+This is a very quick port of [rbenv-installer](https://github.com/rbenv/rbenv-installer) for [goenv](https://github.com/syndbg/goenv).
 
 It has only been tested in linux, and in a limited fashion. However, the only changes are search/replace (`rbenv` -> `goenv`, etc), so it should be reasonably safe.
 
