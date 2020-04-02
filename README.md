@@ -16,10 +16,10 @@ installed if `goenv install` is not already available.
 
 ```sh
 # with curl
-curl -fsSL https://github.com/syndbg/goenv-installer/raw/master/bin/goenv-installer | bash
+curl -fsSL https://github.com/drmikecrowe/goenv-installer/raw/master/bin/goenv-installer | bash
 
 # alternatively, with wget
-wget -q https://github.com/syndbg/goenv-installer/raw/master/bin/goenv-installer -O- | bash
+wget -q https://github.com/drmikecrowe/goenv-installer/raw/master/bin/goenv-installer -O- | bash
 ```
 
 ## goenv-doctor
